@@ -1,9 +1,9 @@
 import * as S from './styles'
 
-export function {{pascalCase name}} () {
+export function Example() {
   return (
     <S.Wrapper>
-      <h1>{{pascalCase name}}</h1>
+      <h1>Example</h1>
     </S.Wrapper>
   )
 }
